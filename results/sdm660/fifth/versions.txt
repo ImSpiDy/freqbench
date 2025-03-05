@@ -1,0 +1,2 @@
+Kernel: Linux version 4.19.325-g36a4e01105fc (RoHaNRaJ@ArchLinux) (Android (13065274, +pgo, +bolt, +lto, +mlgo, based on r547379) clang version 20.0.0 (https://android.googlesource.com/toolchain/llvm-project b718bcaf8c198c82f3021447d943401e3ab5bd54), LLD 20.0.0 (/mnt/disks/build-disk/src/android/llvm-r547379-release/out/llvm-project/llvm b718bcaf8c198c82f3021447d943401e3ab5bd54)) #1 SMP PREEMPT Wed Mar 5 16:27:28 UTC 2025
+Python: Python 3.8.5
